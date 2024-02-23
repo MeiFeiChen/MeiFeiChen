@@ -1,5 +1,5 @@
 ### Hi there 👋
-A self-taught coder turned passionate Back-End Engineer, I excel in Python and Node.js. My journey from hobbyist coding to professional development showcases my dedication to learning and mastery in building scalable back-end solutions. 
+I'm a self-taught coder turned passionate Back-End Engineer, and I excel in Python and Node.js. My journey from hobbyist coding to professional development showcases my dedication to learning and mastery in building scalable back-end solutions. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiFeiChen&layout=compact)
 <!--
